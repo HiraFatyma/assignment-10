@@ -1,0 +1,74 @@
+body{
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+ul{
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    padding: 20px 0;
+}
+ul li{
+    list-style: none;
+    text-align: center;
+    border-right: 1px solid rgba(0,0,0,0.2);
+    display: block;
+    padding: 0px 15px;
+}
+ul li a{
+    text-decoration: none;
+    padding: 0 50px;
+    display: block;
+}
+ul li .icon:hover{
+    color: red;
+}
+h1{
+    font-family: 'Bree Serif', serif;
+    font-size: 35px;
+    color: white;
+}
+.first{
+    font-family: 'Passions Conflict', cursive;
+    font-size: 30px;
+}
+.text-white{
+    color: white;
+}
+.second{
+    font-family:  'Caveat', cursive;
+    font-size: 25px;
+}
+.third{
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+}
+.fourth{
+    font-family:  'Lobster Two', cursive;
+    font-size: 25px;
+}
+.fifth{
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+}
+.sixth{
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+}
+.seventh{
+    font-family: 'Reem Kufi Fun', sans-serif;
+    font-size: 20px;
+}
+.eight{
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+}
+.ninth{
+    font-family: 'Satisfy', cursive;
+    font-size: 25px;
+}
+.tenth{
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+}
